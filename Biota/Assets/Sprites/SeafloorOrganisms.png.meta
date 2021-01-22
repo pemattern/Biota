@@ -20,6 +20,96 @@ TextureImporter:
   - first:
       213: -1859008996265360488
     second: SeafloorOrganisms_3
+  - first:
+      213: -6947536320517352688
+    second: SeafloorOrganisms_2
+  - first:
+      213: 6996675085980732264
+    second: SeafloorOrganisms_3
+  - first:
+      213: 4827543753628126070
+    second: SeafloorOrganisms_4
+  - first:
+      213: 8946374426523205539
+    second: SeafloorOrganisms_5
+  - first:
+      213: -4976193690351100591
+    second: SeafloorOrganisms_6
+  - first:
+      213: -4122356798129660845
+    second: SeafloorOrganisms_7
+  - first:
+      213: -5261670416018350759
+    second: SeafloorOrganisms_8
+  - first:
+      213: -1816017202705650082
+    second: SeafloorOrganisms_9
+  - first:
+      213: 1637975215239433921
+    second: SeafloorOrganisms_10
+  - first:
+      213: -1330673407609837549
+    second: SeafloorOrganisms_11
+  - first:
+      213: -5137364086704774895
+    second: SeafloorOrganisms_12
+  - first:
+      213: 2694790424040821566
+    second: SeafloorOrganisms_13
+  - first:
+      213: -1208046146787299641
+    second: SeafloorOrganisms_14
+  - first:
+      213: 2005152807159034475
+    second: SeafloorOrganisms_15
+  - first:
+      213: 3590327881924681650
+    second: SeafloorOrganisms_16
+  - first:
+      213: -3581253804849020149
+    second: SeafloorOrganisms_17
+  - first:
+      213: -8437304729547037627
+    second: SeafloorOrganisms_18
+  - first:
+      213: 237541320330180538
+    second: SeafloorOrganisms_19
+  - first:
+      213: -2935023165576053594
+    second: SeafloorOrganisms_20
+  - first:
+      213: -8241243299072049729
+    second: SeafloorOrganisms_21
+  - first:
+      213: -7954800811527521341
+    second: SeafloorOrganisms_22
+  - first:
+      213: -1161019057949126813
+    second: SeafloorOrganisms_23
+  - first:
+      213: 8675186447748832679
+    second: SeafloorOrganisms_24
+  - first:
+      213: -5554494137067733673
+    second: SeafloorOrganisms_25
+  - first:
+      213: -2034898797982968324
+    second: SeafloorOrganisms_26
+  - first:
+      213: 9018594751135083268
+    second: SeafloorOrganisms_27
+  - first:
+      213: 4361774059966034942
+    second: SeafloorOrganisms_28
+  - first:
+      213: 1999520022071150208
+    second: SeafloorOrganisms_29
+  - first:
+      213: 3560101148023532882
+    second: SeafloorOrganisms_4
+  - first:
+      213: 9038663287533973270
+    second: SeafloorOrganisms_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -161,8 +251,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b6344143edf59000800000000000000
-      internalID: 42218924024280754
+      spriteID: 013507fa684659f90800000000000000
+      internalID: -6947536320517352688
       vertices: []
       indices: 
       edges: []
@@ -182,8 +272,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8930957da297336e0800000000000000
-      internalID: -1859008996265360488
+      spriteID: 86b05b4bbee291160800000000000000
+      internalID: 6996675085980732264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeafloorOrganisms_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d2764c125086130800000000000000
+      internalID: 3560101148023532882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeafloorOrganisms_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa3d10f58cf6d70800000000000000
+      internalID: 9038663287533973270
       vertices: []
       indices: 
       edges: []

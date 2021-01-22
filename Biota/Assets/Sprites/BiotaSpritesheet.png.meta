@@ -1,0 +1,1739 @@
+fileFormatVersion: 2
+guid: 459a9f9e32fb81e409a3f2553b884e46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7504897287093923639
+    second: BiotaSpritesheet_0
+  - first:
+      213: 5083453942723582364
+    second: BiotaSpritesheet_1
+  - first:
+      213: -7061562856539921127
+    second: BiotaSpritesheet_2
+  - first:
+      213: 7372966216212728129
+    second: BiotaSpritesheet_3
+  - first:
+      213: -8595292659950333964
+    second: BiotaSpritesheet_4
+  - first:
+      213: 7971669210691607875
+    second: BiotaSpritesheet_5
+  - first:
+      213: 2620341422945327753
+    second: BiotaSpritesheet_6
+  - first:
+      213: 3190378522065911349
+    second: BiotaSpritesheet_0
+  - first:
+      213: -2470628767668106207
+    second: BiotaSpritesheet_1
+  - first:
+      213: -8944261140412150529
+    second: BiotaSpritesheet_2
+  - first:
+      213: 5686587430447429726
+    second: BiotaSpritesheet_3
+  - first:
+      213: -5191007913896505189
+    second: BiotaSpritesheet_4
+  - first:
+      213: -1981282935260923332
+    second: BiotaSpritesheet_5
+  - first:
+      213: -4868371559474247889
+    second: BiotaSpritesheet_6
+  - first:
+      213: -5318766513631048288
+    second: BiotaSpritesheet_7
+  - first:
+      213: -2497439086046872533
+    second: BiotaSpritesheet_8
+  - first:
+      213: 2553487636155294611
+    second: BiotaSpritesheet_9
+  - first:
+      213: -4831432878348485727
+    second: BiotaSpritesheet_10
+  - first:
+      213: 1611021160013365217
+    second: BiotaSpritesheet_11
+  - first:
+      213: -2069761557723096421
+    second: BiotaSpritesheet_12
+  - first:
+      213: -8723643236784408728
+    second: BiotaSpritesheet_13
+  - first:
+      213: -5955451969175592293
+    second: BiotaSpritesheet_14
+  - first:
+      213: -6709964719993999187
+    second: BiotaSpritesheet_15
+  - first:
+      213: 95219839350735521
+    second: BiotaSpritesheet_16
+  - first:
+      213: -87894032073550359
+    second: BiotaSpritesheet_17
+  - first:
+      213: 5244367736895737257
+    second: BiotaSpritesheet_18
+  - first:
+      213: 8147832001619594957
+    second: BiotaSpritesheet_7
+  - first:
+      213: -3684353614716344085
+    second: BiotaSpritesheet_8
+  - first:
+      213: -4801692012019820008
+    second: BiotaSpritesheet_9
+  - first:
+      213: -5139311045053936923
+    second: BiotaSpritesheet_10
+  - first:
+      213: 1636388605772444192
+    second: BiotaSpritesheet_11
+  - first:
+      213: -2237233737806484377
+    second: BiotaSpritesheet_12
+  - first:
+      213: 8604541958495502428
+    second: BiotaSpritesheet_13
+  - first:
+      213: 7095992306340548831
+    second: BiotaSpritesheet_14
+  - first:
+      213: -3180690441162126393
+    second: BiotaSpritesheet_15
+  - first:
+      213: 8912401054498471533
+    second: BiotaSpritesheet_16
+  - first:
+      213: -1380361350131599151
+    second: BiotaSpritesheet_17
+  - first:
+      213: 6741290959395657341
+    second: BiotaSpritesheet_18
+  - first:
+      213: 235526369142007722
+    second: BiotaSpritesheet_19
+  - first:
+      213: -8636869199432498000
+    second: BiotaSpritesheet_20
+  - first:
+      213: -5836909829384322395
+    second: BiotaSpritesheet_21
+  - first:
+      213: 2479031710524769459
+    second: BiotaSpritesheet_22
+  - first:
+      213: -1299208467533730107
+    second: BiotaSpritesheet_23
+  - first:
+      213: -2267561661677397289
+    second: BiotaSpritesheet_24
+  - first:
+      213: -4087100885137854219
+    second: BiotaSpritesheet_25
+  - first:
+      213: 8473083910113690433
+    second: BiotaSpritesheet_26
+  - first:
+      213: -5855462929018047145
+    second: BiotaSpritesheet_27
+  - first:
+      213: -5840973702136380426
+    second: BiotaSpritesheet_28
+  - first:
+      213: 574574289185469365
+    second: BiotaSpritesheet_29
+  - first:
+      213: -5509647582116284526
+    second: BiotaSpritesheet_30
+  - first:
+      213: 1743534888652784250
+    second: BiotaSpritesheet_19
+  - first:
+      213: -1624822006663712916
+    second: BiotaSpritesheet_20
+  - first:
+      213: -5074033488683121602
+    second: BiotaSpritesheet_21
+  - first:
+      213: -3425078611250005174
+    second: BiotaSpritesheet_22
+  - first:
+      213: 5955460643499824722
+    second: BiotaSpritesheet_23
+  - first:
+      213: 2005985822046534448
+    second: BiotaSpritesheet_24
+  - first:
+      213: 2172760511023773154
+    second: BiotaSpritesheet_25
+  - first:
+      213: 5935078596218575580
+    second: BiotaSpritesheet_26
+  - first:
+      213: -7012176045163842573
+    second: BiotaSpritesheet_27
+  - first:
+      213: 7280849266080645974
+    second: BiotaSpritesheet_28
+  - first:
+      213: 3940222132052428012
+    second: BiotaSpritesheet_29
+  - first:
+      213: -2285772354848061663
+    second: BiotaSpritesheet_30
+  - first:
+      213: 7392625680982310416
+    second: BiotaSpritesheet_31
+  - first:
+      213: 6171374896691287773
+    second: BiotaSpritesheet_32
+  - first:
+      213: 1648256051981013714
+    second: BiotaSpritesheet_33
+  - first:
+      213: -8906579094899686177
+    second: BiotaSpritesheet_34
+  - first:
+      213: 1634229038860879746
+    second: BiotaSpritesheet_35
+  - first:
+      213: -978808877576722661
+    second: BiotaSpritesheet_36
+  - first:
+      213: -8362062015586459486
+    second: BiotaSpritesheet_37
+  - first:
+      213: 2082137665889168834
+    second: BiotaSpritesheet_31
+  - first:
+      213: 2378462954195464154
+    second: BiotaSpritesheet_32
+  - first:
+      213: -4373059764653352996
+    second: BiotaSpritesheet_33
+  - first:
+      213: 3560178346439884721
+    second: BiotaSpritesheet_34
+  - first:
+      213: 2147133336266815752
+    second: BiotaSpritesheet_35
+  - first:
+      213: -3583761801586993452
+    second: BiotaSpritesheet_36
+  - first:
+      213: 1665352530102914408
+    second: BiotaSpritesheet_37
+  - first:
+      213: 5686059428291446893
+    second: BiotaSpritesheet_38
+  - first:
+      213: 4494545167114219726
+    second: BiotaSpritesheet_39
+  - first:
+      213: 6830197927120393242
+    second: BiotaSpritesheet_40
+  - first:
+      213: 1894366482919035258
+    second: BiotaSpritesheet_41
+  - first:
+      213: 5122904744348913617
+    second: BiotaSpritesheet_42
+  - first:
+      213: -7184139916038300144
+    second: BiotaSpritesheet_43
+  - first:
+      213: -910208288793363761
+    second: BiotaSpritesheet_44
+  - first:
+      213: 8650130372367729916
+    second: BiotaSpritesheet_45
+  - first:
+      213: 6266961931874721772
+    second: BiotaSpritesheet_46
+  - first:
+      213: -899769697822467649
+    second: BiotaSpritesheet_47
+  - first:
+      213: -6713104515761015200
+    second: BiotaSpritesheet_48
+  - first:
+      213: -1612469185434892626
+    second: BiotaSpritesheet_49
+  - first:
+      213: -790083187031426273
+    second: BiotaSpritesheet_38
+  - first:
+      213: -8082452381701698597
+    second: BiotaSpritesheet_39
+  - first:
+      213: -9133428368893936013
+    second: BiotaSpritesheet_40
+  - first:
+      213: 7669859408007507742
+    second: BiotaSpritesheet_41
+  - first:
+      213: -4073720958951367864
+    second: BiotaSpritesheet_42
+  - first:
+      213: -8646292842676580327
+    second: BiotaSpritesheet_43
+  - first:
+      213: -2701291166217789530
+    second: BiotaSpritesheet_44
+  - first:
+      213: 3333550643166702779
+    second: BiotaSpritesheet_45
+  - first:
+      213: -983095820932182800
+    second: BiotaSpritesheet_46
+  - first:
+      213: -4723060818431127199
+    second: BiotaSpritesheet_47
+  - first:
+      213: -7730597600836616566
+    second: BiotaSpritesheet_48
+  - first:
+      213: -1719165329520378050
+    second: BiotaSpritesheet_49
+  - first:
+      213: 8310370563951092428
+    second: BiotaSpritesheet_50
+  - first:
+      213: 5317684857982630366
+    second: BiotaSpritesheet_50
+  - first:
+      213: 5563604327624235235
+    second: BiotaSpritesheet_51
+  - first:
+      213: -2154995956564720105
+    second: BiotaSpritesheet_52
+  - first:
+      213: -7479368877257857565
+    second: BiotaSpritesheet_53
+  - first:
+      213: -266561998293815263
+    second: BiotaSpritesheet_54
+  - first:
+      213: -4430062995149610820
+    second: BiotaSpritesheet_55
+  - first:
+      213: -5564773067902645375
+    second: BiotaSpritesheet_56
+  - first:
+      213: -6467435882196626135
+    second: BiotaSpritesheet_51
+  - first:
+      213: -5156608139553270320
+    second: BiotaSpritesheet_52
+  - first:
+      213: 3705259697159805818
+    second: BiotaSpritesheet_53
+  - first:
+      213: 8661915996235984696
+    second: BiotaSpritesheet_54
+  - first:
+      213: 4637020402885752040
+    second: BiotaSpritesheet_55
+  - first:
+      213: 7479285366313540281
+    second: BiotaSpritesheet_56
+  - first:
+      213: -5494353545538115171
+    second: BiotaSpritesheet_57
+  - first:
+      213: 2830015961363132139
+    second: BiotaSpritesheet_58
+  - first:
+      213: -449044002037888125
+    second: BiotaSpritesheet_59
+  - first:
+      213: -5091870909911588395
+    second: BiotaSpritesheet_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BiotaSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e36cacc50864c20800000000000000
+      internalID: 3190378522065911349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c084bc93096bdd0800000000000000
+      internalID: -2470628767668106207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc476ba1e99fd380800000000000000
+      internalID: -8944261140412150529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e583500a321daee40800000000000000
+      internalID: 5686587430447429726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9015f13ec5d5f7b0800000000000000
+      internalID: -5191007913896505189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aba3ceaa11184e0800000000000000
+      internalID: -1981282935260923332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f274ce24cd1107cb0800000000000000
+      internalID: -4868371559474247889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8812590ae21170800000000000000
+      internalID: 8147832001619594957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e7ef68eb8edcc0800000000000000
+      internalID: -3684353614716344085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5ab63e86fc5db0800000000000000
+      internalID: -4801692012019820008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea815175df7da8b0800000000000000
+      internalID: -5139311045053936923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022309954ce95b610800000000000000
+      internalID: 1636388605772444192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c6682d4cfb3f0e0800000000000000
+      internalID: -2237233737806484377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50811b8259796770800000000000000
+      internalID: 8604541958495502428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0555c08670a7260800000000000000
+      internalID: 7095992306340548831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0d0255eaebd3d0800000000000000
+      internalID: -3180690441162126393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eb2350a853fab70800000000000000
+      internalID: 8912401054498471533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d83abf5aa8f7dce0800000000000000
+      internalID: -1380361350131599151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7694522960ed8d50800000000000000
+      internalID: 6741290959395657341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7246ab5eb7423810800000000000000
+      internalID: 1743534888652784250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f629d5ef87379e0800000000000000
+      internalID: -1624822006663712916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e344b98ec696599b0800000000000000
+      internalID: -5074033488683121602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb7a0662da770d0800000000000000
+      internalID: -3425078611250005174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25650a1e6eb06a250800000000000000
+      internalID: 5955460643499824722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bbd8b1a71b6db10800000000000000
+      internalID: 2005985822046534448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 872
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e571994c22372e10800000000000000
+      internalID: 2172760511023773154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdad1a1b982ad5250800000000000000
+      internalID: 5935078596218575580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3718df90fbfae90800000000000000
+      internalID: -7012176045163842573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65386e7f4d5ca0560800000000000000
+      internalID: 7280849266080645974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce40e15272b7ea630800000000000000
+      internalID: 3940222132052428012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1278fdf572e4740e0800000000000000
+      internalID: -2285772354848061663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cde8ccec2d35ec10800000000000000
+      internalID: 2082137665889168834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf2f38847ff10120800000000000000
+      internalID: 2378462954195464154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd798424055cf43c0800000000000000
+      internalID: -4373059764653352996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf369ce75b486130800000000000000
+      internalID: 3560178346439884721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8093591b4662ccd10800000000000000
+      internalID: 2147133336266815752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d61bc801abe34ec0800000000000000
+      internalID: -3583761801586993452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d059e7d458c1710800000000000000
+      internalID: 1665352530102914408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbbf5078f0905f0800000000000000
+      internalID: -790083187031426273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb09aaa16c55df80800000000000000
+      internalID: -8082452381701698597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ef99a1a4b8f3180800000000000000
+      internalID: -9133428368893936013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa973be70d07a60800000000000000
+      internalID: 7669859408007507742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd3af0f5c3777c0800000000000000
+      internalID: -4073720958951367864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91092483872320880800000000000000
+      internalID: -8646292842676580327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af10b21ff5138ad0800000000000000
+      internalID: -2701291166217789530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbce9b6e5a6234e20800000000000000
+      internalID: 3333550643166702779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8a2d3f875b52f0800000000000000
+      internalID: -983095820932182800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 744
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d8d0a531547eb0800000000000000
+      internalID: -4723060818431127199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e75a4c07667b490800000000000000
+      internalID: -7730597600836616566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f35c7cd3c4428e0800000000000000
+      internalID: -1719165329520378050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9378b34363cc940800000000000000
+      internalID: 5317684857982630366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9251e02c45d0f36a0800000000000000
+      internalID: -6467435882196626135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51a0cc73c0078b0800000000000000
+      internalID: -5156608139553270320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b18c1301abb6330800000000000000
+      internalID: 3705259697159805818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 680
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f6beda4be453870800000000000000
+      internalID: 8661915996235984696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47e3a0d710a5040800000000000000
+      internalID: 4637020402885752040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba55e8e962cbc760800000000000000
+      internalID: 7479285366313540281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99eac78f8220c3b0800000000000000
+      internalID: -5494353545538115171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 552
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2cb5d58c364720800000000000000
+      internalID: 2830015961363132139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b030afbdca4c9f0800000000000000
+      internalID: -449044002037888125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiotaSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 552
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12394a26a0659b0800000000000000
+      internalID: -5091870909911588395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
