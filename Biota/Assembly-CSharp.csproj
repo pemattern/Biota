@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\OrganismSpawner.cs" />
      <Compile Include="Assets\Scripts\RainRotator.cs" />
      <Compile Include="Assets\Scripts\SinOsc.cs" />
+     <Compile Include="Assets\Scripts\ToggleOrganismType.cs" />
      <Compile Include="Assets\Scripts\ToggleWater.cs" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Unity/2019.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

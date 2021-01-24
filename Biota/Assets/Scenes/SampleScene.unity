@@ -12103,7 +12103,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 539, y: 686}
+  m_AnchoredPosition: {x: 696, y: 1225}
   m_SizeDelta: {x: 32, y: 64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &652899618
@@ -13507,11 +13507,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1167101849}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4923d09c485b144f8263644ac4ec758, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f7da65a6b35bc64cabfb1d6e9ea914d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvas: {fileID: 352276161}
-  dragDropHolder: {fileID: 646625881}
+  boardManagerGameObject: {fileID: 1486272919}
+  toggleOrganismTypeOn: {fileID: 8946374426523205539, guid: ad126060745852b41b90e5735417edde,
+    type: 3}
+  toggleOrganismTypeOff: {fileID: 4827543753628126070, guid: ad126060745852b41b90e5735417edde,
+    type: 3}
 --- !u!114 &1167101854
 MonoBehaviour:
   m_ObjectHideFlags: 0

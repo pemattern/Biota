@@ -6,8 +6,12 @@ using UnityEngine;
 public class Organism : ScriptableObject
 {
 
-    public string type;
+    public enum OrganismType {Empty, Trilobozoa, Cloudina};
+
+    public OrganismType organismType;
+
     public Sprite sprite;
+
     public AnimationClip animationClip;
     
 }

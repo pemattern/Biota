@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 864503ff9815d434ca515cbb1ff7c4d4, type: 3}
   m_Name: Trilobozoa
   m_EditorClassIdentifier: 
-  type: Trilobozoa
+  organismType: 1
   sprite: {fileID: -6713104515761015200, guid: 459a9f9e32fb81e409a3f2553b884e46, type: 3}
   animationClip: {fileID: 7400000, guid: 3b744ed69ca6d7448b080b06c489c751, type: 2}
