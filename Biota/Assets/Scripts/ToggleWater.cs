@@ -1,13 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class ToggleWater : MonoBehaviour
+public class ToggleWater : MonoBehaviour, IPointerClickHandler
 {
 
     public GameObject water;
 
-    private SpriteRenderer toggleWaterSpriteRenderer;
+    private Image toggleWaterImage;
 
     public Sprite toggleWaterOn;
 
@@ -18,17 +20,17 @@ public class ToggleWater : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        toggleWaterSpriteRenderer = GetComponent<SpriteRenderer>();
+        toggleWaterImage = GetComponent<Image>();
 
         toggle = true;
      }
 
 
-    void OnMouseUp()
+    public void OnPointerClick(PointerEventData eventData)
     {
         if (toggle)
         {
-            toggleWaterSpriteRenderer.sprite = toggleWaterOff;
+            toggleWaterImage.sprite = toggleWaterOff;
 
             water.GetComponent<SpriteRenderer>().color = new Color(255,255,255,0);
 
@@ -36,7 +38,7 @@ public class ToggleWater : MonoBehaviour
         }
         else
         {
-            toggleWaterSpriteRenderer.sprite = toggleWaterOn;
+            toggleWaterImage.sprite = toggleWaterOn;
 
             water.GetComponent<SpriteRenderer>().color = new Color(255,255,255,255);
 
