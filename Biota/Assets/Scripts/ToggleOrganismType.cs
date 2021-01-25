@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using static Organism;
 
 public class ToggleOrganismType : MonoBehaviour, IPointerClickHandler
 {
@@ -11,37 +12,52 @@ public class ToggleOrganismType : MonoBehaviour, IPointerClickHandler
     public Sprite toggleOrganismTypeOn;
     public Sprite toggleOrganismTypeOff;
 
+    public OrganismType activeOrganismType;
+
     private BoardManager boardManager;
     private Image toggleOrganismType;
-    private string type;
 
-
-
-    private bool toggle;
+    private int toggle;
 
     void Start()
     {
         toggleOrganismType = GetComponent<Image>();
         boardManager = boardManagerGameObject.GetComponent<BoardManager>();
 
-        toggle = true;
+        toggle = 0;
 
-        type = "Trilobozoa";
+        activeOrganismType = OrganismType.Trilobozoa;
     }
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (toggle)
+        toggle++;
+        if (toggle > 3)
         {
-            toggleOrganismType.sprite = toggleOrganismTypeOff;
-
-            toggle = false;
+            toggle = 0;
         }
-        else
-        {
-            toggleOrganismType.sprite = toggleOrganismTypeOn;
 
-            toggle = true;
-        } 
+        switch (toggle)
+        {
+            case 0:
+                activeOrganismType = OrganismType.Trilobozoa;
+                break;
+
+            case 1:
+                activeOrganismType = OrganismType.Cloudina;
+                break;
+
+            case 2:
+                activeOrganismType = OrganismType.Cyanobacteria;
+                break;
+
+            case 3:
+                activeOrganismType = OrganismType.Charnia;
+                break;
+            
+            default:
+                break;
+        }
+        
     }
 }

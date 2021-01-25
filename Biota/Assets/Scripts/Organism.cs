@@ -2,16 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName="Organism", menuName="Organism")]
-public class Organism : ScriptableObject
+public class Organism : MonoBehaviour
 {
 
-    public enum OrganismType {Empty, Trilobozoa, Cloudina};
+    public enum OrganismType {Empty, Trilobozoa, Cloudina, Cyanobacteria, Charnia};
 
     public OrganismType organismType;
-
-    public Sprite sprite;
-
-    public AnimationClip animationClip;
-    
+ 
+    void Start()
+    {
+        organismType = OrganismType.Empty;
+    }
+   
 }

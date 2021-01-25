@@ -1,17 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static Organism;
 
 public class ColliderBehavior : MonoBehaviour
 {
-    public GameObject organismHolder;
     private SpriteRenderer hlSpriteRenderer;
-    private OrganismSpawner organismSpawner;
+
+    private BoardManager boardManager;
+
+    private GameObject organismToggleButton;
+
+    public int posx;
+    public int posy;
 
     void Start()
     {
         hlSpriteRenderer = GetComponent<SpriteRenderer>();
-        organismSpawner = organismHolder.GetComponent<OrganismSpawner>();
+
+        boardManager = (BoardManager)FindObjectOfType(typeof(BoardManager));
+
+        organismToggleButton = GameObject.Find("OrganismToggleButton");
     }
 
     void OnMouseOver()
@@ -26,6 +35,6 @@ public class ColliderBehavior : MonoBehaviour
 
     void OnMouseUp()
     {
-        organismSpawner.Spawn("Trilobozoa");
+        boardManager.Spawn(organismToggleButton.GetComponent<ToggleOrganismType>().activeOrganismType, posx, posy);
     }
 }

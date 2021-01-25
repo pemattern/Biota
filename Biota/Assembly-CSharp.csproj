@@ -47,15 +47,16 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BGScroll.cs" />
      <Compile Include="Assets\Scripts\BoardManager.cs" />
-     <Compile Include="Assets\Scripts\CallDragDropHolder.cs" />
+     <Compile Include="Assets\Scripts\Charnia.cs" />
+     <Compile Include="Assets\Scripts\Cloudina.cs" />
      <Compile Include="Assets\Scripts\ColliderBehavior.cs" />
-     <Compile Include="Assets\Scripts\DragDrop.cs" />
+     <Compile Include="Assets\Scripts\Cyanobacteria.cs" />
      <Compile Include="Assets\Scripts\Organism.cs" />
-     <Compile Include="Assets\Scripts\OrganismSpawner.cs" />
      <Compile Include="Assets\Scripts\RainRotator.cs" />
      <Compile Include="Assets\Scripts\SinOsc.cs" />
      <Compile Include="Assets\Scripts\ToggleOrganismType.cs" />
      <Compile Include="Assets\Scripts\ToggleWater.cs" />
+     <Compile Include="Assets\Scripts\Trilobozoa.cs" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Unity/2019.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
